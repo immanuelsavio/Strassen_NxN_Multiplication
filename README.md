@@ -90,7 +90,9 @@ C4 = P1 – P3 + P5 – P7
 Content Credits : GeeksForGeeks
 
 Thats all folks!
+<p align="center">
 
 ![alt text](https://media.giphy.com/media/upg0i1m4DLe5q/giphy.gif)
 
+</p>
 So try it out and star if you like it. Happy coding!!
