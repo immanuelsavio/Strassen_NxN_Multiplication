@@ -87,7 +87,7 @@ C4 = P1 – P3 + P5 – P7
 
 ![alt text](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/strasen-4.png)
 
-Content Credits : GeeksForGeeks
+### Content Credits : GeeksForGeeks
 
 Thats all folks!
 <p align="center">
