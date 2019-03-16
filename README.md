@@ -91,6 +91,6 @@ Content Credits : GeeksForGeeks
 
 Thats all folks!
 
-![alt text](https://tenor.com/yvUs.gif)
+![alt text](https://media.giphy.com/media/upg0i1m4DLe5q/giphy.gif)
 
 So try it out and star if you like it. Happy coding!!
